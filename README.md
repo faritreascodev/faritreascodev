@@ -5,7 +5,7 @@
 
 #### Sobre mí
 
-Soy Farit Reasco, actualmente cursando el primer año de Tecnología en Desarrollo de Software y me considero un ferviente autodidacta. Además, soy un músico principiante, un ávido amante de las humanidades y la informática, y un entusiasta de la lectura, la escritura, el aprendizaje, la programación y los videojuegos.
+Soy Farit Reasco, actualmente cursando el primer año de carrera en Desarrollo de Software y me considero un ferviente autodidacta. Además, soy un músico principiante, un ávido amante de las humanidades y la informática, y un entusiasta de la lectura, la escritura, el aprendizaje, la programación y los videojuegos.
 
 - 🎓 **Enfocado en Desarrollo Web Full-stack**: Me apasiona la creación de aplicaciones web robustas y eficientes.
 - 🌱 **Aprendiendo actualmente**: JavaScript y React.
