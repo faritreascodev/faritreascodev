@@ -8,14 +8,13 @@
 Soy Farit Reasco, actualmente cursando el primer año de carrera en Desarrollo de Software y me considero un ferviente autodidacta. Además, soy un músico principiante, un ávido amante de las humanidades y la informática, y un entusiasta de la lectura, la escritura, el aprendizaje, la programación y los videojuegos.
 
 - 🎓 **Enfocado en Desarrollo Web Full-stack**: Me apasiona la creación de aplicaciones web robustas y eficientes.
-- 🌱 **Aprendiendo actualmente**: JavaScript y React.
+- 🌱 **Aprendiendo actualmente**: Java y JavaScript.
 - 👯 **Busco grupos de estudio**: Interesado en colaborar y aprender junto a otros.
 - 💬 **Aprendamos juntos**: Dispuesto a compartir conocimientos y experiencias.
 
 ---
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:areasco1306nnca@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farit-alexander-reasco-torres-5373a026b/)
+[![LinkedIn](www.linkedin.com/in/farit-reasco-5373a026b)
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/farit_reasco_dev/)
 
 ---
@@ -25,7 +24,7 @@ Soy Farit Reasco, actualmente cursando el primer año de carrera en Desarrollo d
 
 ---
 
-#### Tecnologías y preferencias (principiante):
+#### Conocimiento básco en: Tecnologías y preferencias
 
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -39,12 +38,9 @@ Soy Farit Reasco, actualmente cursando el primer año de carrera en Desarrollo d
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-
----
-
-##### Otros lenguajes (principiante)
-
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-00599C?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-3DAD4B?style=flat&logo=python&logoColor=white"> 
+<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/-C%20&%20C++-00599C?style=flat&logo=c%2B%2B&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Python-3DAD4B?style=flat&logo=python&logoColor=white">
 
 ---
 
@@ -57,10 +53,6 @@ Soy Farit Reasco, actualmente cursando el primer año de carrera en Desarrollo d
 - 🚀 **Desarrollo y mejora constante**: Trabajo continuamente en mejorar mis habilidades tecnológicas, enfocándome en el desarrollo full-stack para ser un desarrollador más competente y versátil.
 
 Conectemos 👨‍💻 y forjemos juntos algún proyecto. 😁✌
-
----
-
-[![faritreascodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=faritreascodev)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
