@@ -1,14 +1,14 @@
 ### ¡Bienvenidos a mi mundo!
 <h1 align="center">Hola 👋, soy Farit</h1>
-<h3 align="center">+Técnico en informática+</h3>
+<h3 align="center">+Estudiante de Desarrollo de Software+</h3>
 ---
 
 #### Sobre mí
 
-Soy Farit Reasco, actualmente cursando el primer año de carrera en Desarrollo de Software y me considero un ferviente autodidacta. Además, soy un músico principiante, un ávido amante de las humanidades y la informática, y un entusiasta de la lectura, la escritura, el aprendizaje, la programación y los videojuegos.
+Apasionado autodidacta interesado en las humanidades y la informática. Disfruto de la lectura, la escritura, el aprendizaje constante y los videojuegos.
 
 - 🎓 **Enfocado en Desarrollo Web Full-stack**: Me apasiona la creación de aplicaciones web robustas y eficientes.
-- 🌱 **Aprendiendo actualmente**: Java y JavaScript.
+- 🌱 **Aprendiendo actualmente**: JavaScript, Java, SQL.
 - 👯 **Busco grupos de estudio**: Interesado en colaborar y aprender junto a otros.
 - 💬 **Aprendamos juntos**: Dispuesto a compartir conocimientos y experiencias.
 
@@ -43,20 +43,9 @@ Soy Farit Reasco, actualmente cursando el primer año de carrera en Desarrollo d
 <img src="https://img.shields.io/badge/-Python-3DAD4B?style=flat&logo=python&logoColor=white">
 
 ---
-
-### Intereses 🌐
-
-- 🛠️ **Crear soluciones prácticas**: Desarrollando proyectos que mejoren la experiencia del usuario y la funcionalidad del software.
-- 🎵 **Programar con música**: La música me ayuda a mantenerme enfocado y creativo mientras programo.
-- 📚 **Aprendizaje continuo**: Siempre dispuesto a mejorar mis habilidades técnicas, profundizando en áreas como la arquitectura de software y las mejores prácticas de desarrollo.
-- 🤝 **Colaboración y altruismo**: Dispuesto a ayudar a otros y compartir conocimientos dentro de la comunidad tecnológica.
-- 🚀 **Desarrollo y mejora constante**: Trabajo continuamente en mejorar mis habilidades tecnológicas, enfocándome en el desarrollo full-stack para ser un desarrollador más competente y versátil.
-
-Conectemos 👨‍💻 y forjemos juntos algún proyecto. 😁✌
+👨‍💻 Conectemos y forjemos juntos algún proyecto. 😁✌
 
 ---
-
-Revisa los Repositorios y no olvides dar una estrella. 👇
 
 🌟: De [faritreascodev](https://github.com/faritreascodev)
 
