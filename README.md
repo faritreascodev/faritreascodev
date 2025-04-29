@@ -14,13 +14,12 @@ Apasionado autodidacta interesado en las humanidades y la informática. Disfruto
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/farit-reasco-5373a026b)
-[![Instagram](https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/farit_reasco_dev/)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/farit-alexander-reasco-torres-5373a026b)
+[![Instagram](https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/faritreasco.dev/)
 
 ---
 
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCPKYqx75xzlVqhzMZS9u9yg)
-![freeCodeCamp points](https://img.shields.io/freecodecamp/points/faritreascodev)
 
 ---
 
