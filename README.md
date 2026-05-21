@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, soy Farit!</h1>
+<h1 align="center">Hola, soy Farit</h1>
 <h3 align="center">Backend Developer · Node.js · APIs REST · Docker</h3>
 
 <p align="center">
@@ -17,11 +17,13 @@
 
 ## Sobre mí
 
-Tecnólogo en Desarrollo de Software con experiencia práctica en entornos reales: APIs REST, automatización de procesos y despliegue con Docker.
+Soy Tecnólogo en Desarrollo de Software enfocado en desarrollar sistemas backend mantenibles y escalables.
 
-He construido aplicaciones backend con **Node.js, Express y MongoDB**, trabajado con bases de datos relacionales (**PostgreSQL, MySQL**) y desplegado servicios con **Docker y Dokploy**. En el frontend manejo **React y TailwindCSS** para complementar mis proyectos con pequeñas interfaces.
+Trabajo principalmente con **Node.js, Express, MongoDB, PostgreSQL y MySQL**. Para despliegue y administración de servicios utilizo **Docker/Docker Compose** y **Dokploy**.
 
-Estoy en una etapa de crecimiento deliberado: consolidando arquitectura sólida, buenas prácticas y criterio técnico propio. Busco un entorno donde pueda aportar desde ya y seguir aprendiendo.
+También desarrollo interfaces funcionales con **React y TailwindCSS** para complementar mis proyectos.
+
+Actualmente estoy profundizando en arquitectura backend, buenas prácticas y diseño de sistemas.
 
 ---
 
@@ -36,11 +38,11 @@ Estoy en una etapa de crecimiento deliberado: consolidando arquitectura sólida,
 
 ### DevOps y herramientas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian_Trixie-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=for-the-badge&logo=bruno&logoColor=black)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -52,10 +54,10 @@ Estoy en una etapa de crecimiento deliberado: consolidando arquitectura sólida,
 
 ## En lo que estoy trabajando
 
-- Arquitectura backend con Node.js orientada a escalabilidad
-- Diseño y documentación de APIs REST con Swagger
-- Automatización de flujos con n8n y Docker Compose
-- Buenas prácticas de despliegue en entornos reales
+- Arquitectura backend y diseño de APIs con Node.js
+- Profundizando en Java y programación orientada a objetos
+- Estudiando C y sistemas Linux
+- Despliegue y administración de servicios con Docker
 
 ---
 
@@ -72,9 +74,5 @@ https://www.instagram.com/faritreasco.dev/
 ---
 
 <p align="center">
-  <em>El código no solo ejecuta instrucciones; también expresa una forma de pensar.</em>
-</p>
-
-<p align="center">
-  Estoy empezando. Busco un equipo donde pueda aportar, aprender y crecer con responsabilidad.
+  <em>"El código también refleja una forma de pensar."</em>
 </p>
