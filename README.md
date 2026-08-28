@@ -1,78 +1,92 @@
-<h1 align="center">Hola, soy Farit</h1>
-<h3 align="center">Backend Developer · Node.js · APIs REST · Docker</h3>
+<h1 align="center">Hi, I'm Farit</h1>
+
+<h3 align="center">Full-Stack Developer · Backend Engineering · DevOps</h3>
 
 <p align="center">
-  <a href="https://github.com/faritreascodev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+  <a href="https://farit.mltprdj.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=astro&logoColor=white" />
   </a>
+
   <a href="https://www.linkedin.com/in/farit-alexander-reasco-torres-5373a026b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://www.instagram.com/faritreasco.dev/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+
 </p>
 
 ---
 
-## Sobre mí
+## About Me
 
-Soy Tecnólogo en Desarrollo de Software enfocado en desarrollar sistemas backend mantenibles y escalables.
+I'm a **Software Development Technologist** and Full-Stack Developer focused on **backend engineering, infrastructure, and AI integration**.
 
-Trabajo principalmente con **Node.js, Express, MongoDB, PostgreSQL y MySQL**. Para despliegue y administración de servicios utilizo **Docker/Docker Compose** y **Dokploy**.
+I build end-to-end systems, from database and API design to frontend development, deployment, and production operations. My main stack includes **Node.js, NestJS, Express, Go, PostgreSQL, and MongoDB**. I use **Docker and Linux** for infrastructure and build interfaces with **React, Next.js, and Astro**.
 
-También desarrollo interfaces funcionales con **React y TailwindCSS** para complementar mis proyectos.
+I use AI tools and autonomous agents as part of my software development workflow, while also integrating AI capabilities into applications through **LLMs, autonomous agents, pipelines, and MCP servers**, building solutions that operate in real-world production environments.
 
-Actualmente estoy profundizando en arquitectura backend, buenas prácticas y diseño de sistemas.
+I'm currently pursuing a degree in **Computer Science** and deepening my knowledge of **software architecture, Go, system design, and DevOps**.
 
 ---
 
-## Tecnologías que uso
+## Tech Stack
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### DevOps y herramientas
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian_Trixie-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=for-the-badge&logo=bruno&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge\&logo=astro\&logoColor=white)
+
+### AI-Assisted Development & Agents
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge\&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Servers-4A90D9?style=for-the-badge\&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B35?style=for-the-badge\&logoColor=white)
 
 ---
 
-## En lo que estoy trabajando
+## Currently Exploring
 
-- Arquitectura backend y diseño de APIs con Node.js
-- Profundizando en Java y programación orientada a objetos
-- Estudiando C y sistemas Linux
-- Despliegue y administración de servicios con Docker
+* **Software Architecture** — system design, patterns, and scalability.
+* **Go** — backend development and systems programming.
+* **Data Engineering** — advanced SQL and data engineering fundamentals.
+* **Cybersecurity** — web security, offensive security, and ethical hacking.
 
 ---
 
-## Más allá del código
+## Beyond Code
 
-También escribo sobre política, filosofía, cultura y tecnología.
+I also write and reflect on **politics, philosophy, culture, and technology**.
 
-* LinkedIn (perfil profesional)  
-https://www.linkedin.com/in/farit-alexander-reasco-torres-5373a026b  
-
-* Instagram (lectura y reflexión)  
-https://www.instagram.com/faritreasco.dev/  
+* [LinkedIn](https://www.linkedin.com/in/farit-alexander-reasco-torres-5373a026b) — professional profile.
+* [Instagram](https://www.instagram.com/faritreasco.dev/) — reading and reflections.
+* [YouTube](https://www.youtube.com/@faritreascodev) — technical content.
 
 ---
 
 <p align="center">
-  <em>"El código también refleja una forma de pensar."</em>
+  <em>"Code also reflects a way of thinking."</em>
 </p>
